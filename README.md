@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lasha Pertakhia 👋
 
 <!--
 **lperto/lperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
